@@ -24,6 +24,6 @@
     npm install
   ## Spin up the server
     npm run dev
-
-  #CONTRIBUTION
-    You can contribute to this project if there are any bug fixes and additional features to be added as you can fork this repo and open a pull request. 
+    
+# CONTRIBUTION
+  You can contribute to this project if there are any bug fixes and additional features to be added as you can fork this repo and open a pull request. 
